@@ -18,3 +18,9 @@ _Segundo título do **markdown**_
 2. testando 2
 3. testando 3
 ![logo php](https://logospng.org/wp-content/uploads/php.png)
+### funcao javascript
+```Javascript
+function soma(a,b){
+    return a + b;
+}
+```
