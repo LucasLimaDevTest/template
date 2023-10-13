@@ -24,3 +24,7 @@ function soma(a,b){
     return a + b;
 }
 ```
+## lista de farefas
+- [x] HTML
+- [x] CSS
+- [x] Javascript
