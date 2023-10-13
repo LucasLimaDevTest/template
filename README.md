@@ -12,8 +12,8 @@ _Segundo título do **markdown**_
 * JAVASCRIPT
 * PHP
 1. testando 1
-        1. testando 1.1
-        2. testando 2.2
-        3. testando 3.3
+    1. testando 1.1
+    2. testando 2.2
+    3. testando 3.3
 2. testando 2
 3. testando 3
